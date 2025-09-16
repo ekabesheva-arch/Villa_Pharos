@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - voila=0.4.0
-  - ipywidgets=7.7.2
-  - pandas=1.5.3
+  - voila
+  - ipywidgets
+  - pandas
   - numpy
   - matplotlib
   - seaborn
